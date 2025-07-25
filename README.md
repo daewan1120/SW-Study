@@ -38,10 +38,10 @@
 
 ### 1. 레포지토리 생성
 
-    - **이 레포지토리를 포크합니다.**  
-      👉 [이 레포지토리를 포크하려면 여기를 클릭하세요.](https://github.com/daewan1120/SW-Study/fork)
-    - 포크한 본인 계정의 레포지토리를 로컬에 클론합니다.
+- **이 레포지토리를 포크합니다.**  
+👉 [이 레포지토리를 포크하려면 여기를 클릭하세요.](https://github.com/daewan1120/SW-Study/fork)
 
+- 포크한 본인 계정의 레포지토리를 로컬에 클론합니다.
 ```bash
 git clone https://github.com/[username]/SW-Study
 cd SW-Study
